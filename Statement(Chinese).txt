@@ -1,0 +1,6 @@
+这个文档用于说明这个工程下每一个文件的大致内容和作用。
+
+此工程已经创建了git目录并上传至个人的github账号上了，里面已经包括了.gitignore等git相关的文件。
+
+(1).FirsttimeLearningTensorFlow.py
+    说明：刚装好TensorFlow，测试一下是否装好，简单的尝试一下TensorFlow的基本操作。
